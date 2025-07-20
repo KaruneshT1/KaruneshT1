@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an IT student based in India, currently working with the **MERN stack** on projects like **Data Sentinel** (data infiltration protection) and an **Encrypted File Organizer**.
+I'm an IT student based in India, currently working with the **MERN stack** to build scalable full-stack applications.
 
 Also exploring **Cloud Computing**, improving my **AI/ML** skills, and interested in contributing to **open source**.  
 I actively participate in **hackathons**, work on **team projects**, and focus on clean **UI/UX** design.
