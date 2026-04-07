@@ -1,9 +1,4 @@
-## Hi there 👋
-
-I'm an IT student based in India, currently working with the **MERN stack** to build scalable full-stack applications.
-
-Also exploring **Cloud Computing**, improving my **AI/ML** skills, and interested in contributing to **open source**.  
-I actively participate in **hackathons**, work on **team projects**, and focus on clean **UI/UX** design.
+## Hello there! 👋
 
 <!---
 KaruneshT1/KaruneshT1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
